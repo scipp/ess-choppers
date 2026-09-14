@@ -8,3 +8,4 @@ sphinx-copybutton
 sphinx-design
 myst-parser
 ipykernel
+essreduce
