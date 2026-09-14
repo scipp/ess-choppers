@@ -1,0 +1,8 @@
+sphinx
+nbsphinx
+scipp
+tof
+scippneutron
+pydata-sphinx-theme
+sphinx-copybutton
+sphinx-design
