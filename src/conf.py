@@ -2,24 +2,24 @@
 # Copyright (c) 2026 Scipp contributors (https://github.com/scipp)
 
 # General information about the project.
-project = 'ESS choppers'
-copyright = '2026 Scipp contributors'
-author = 'Scipp contributors'
+project = "ESS choppers"
+copyright = "2026 Scipp contributors"
+author = "Scipp contributors"
 
 html_show_sourcelink = True
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.githubpages',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.viewcode',
-    'sphinx_autodoc_typehints',
-    'sphinx_copybutton',
-    'sphinx_design',
-    'nbsphinx',
-    'sphinx_gallery.load_style',
-    'myst_parser',
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.githubpages",
+    "sphinx.ext.mathjax",
+    "sphinx.ext.viewcode",
+    "sphinx_autodoc_typehints",
+    "sphinx_copybutton",
+    "sphinx_design",
+    "nbsphinx",
+    "sphinx_gallery.load_style",
+    "myst_parser",
 ]
 
 myst_enable_extensions = [
@@ -40,11 +40,11 @@ myst_enable_extensions = [
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-source_suffix = ['.rst', '.md']
-html_sourcelink_suffix = ''  # Avoid .ipynb.txt extensions in sources
+source_suffix = [".rst", ".md"]
+html_sourcelink_suffix = ""  # Avoid .ipynb.txt extensions in sources
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = "index"
 
 warning_is_error = False
 
@@ -58,10 +58,10 @@ language = "en"
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '**.ipynb_checkpoints']
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+pygments_style = "sphinx"
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
@@ -98,8 +98,8 @@ html_title = "ESS choppers"
 # # Add any paths that contain custom static files (such as style sheets) here,
 # # relative to this directory. They are copied after the builtin static files,
 # # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
-html_css_files = ['custom.css']
+html_static_path = ["_static"]
+html_css_files = ["custom.css"]
 # html_js_files = ["anaconda-icon.js"]
 
 # -- Options for HTMLHelp output ------------------------------------------
