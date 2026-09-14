@@ -6,3 +6,4 @@ scippneutron
 pydata-sphinx-theme
 sphinx-copybutton
 sphinx-design
+myst-parser

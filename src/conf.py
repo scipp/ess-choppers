@@ -14,11 +14,9 @@ extensions = [
     "sphinx.ext.githubpages",
     "sphinx.ext.mathjax",
     "sphinx.ext.viewcode",
-    "sphinx_autodoc_typehints",
     "sphinx_copybutton",
     "sphinx_design",
     "nbsphinx",
-    "sphinx_gallery.load_style",
     "myst_parser",
 ]
 
