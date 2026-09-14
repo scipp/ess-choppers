@@ -22,12 +22,12 @@
 
 :::
 
-::::{grid-item-card} ODIN
+:::{grid-item-card} ODIN
 :link: odin-choppers.ipynb
 
 :::
 
-::::{grid-item-card} NMX
+:::{grid-item-card} NMX
 :link: nmx-choppers.ipynb
 
 :::
