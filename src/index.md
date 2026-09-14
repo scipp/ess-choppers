@@ -27,6 +27,11 @@
 
 :::
 
+::::{grid-item-card} NMX
+:link: nmx-choppers.ipynb
+
+:::
+
 ::::
 
 
@@ -39,5 +44,6 @@ beer-choppers
 bifrost-choppers
 dream-choppers
 magic-choppers
+nmx-choppers
 odin-choppers
 ```
