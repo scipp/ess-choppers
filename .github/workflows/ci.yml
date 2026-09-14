@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-python@v6
       - run: python -m pip install --upgrade pip
       - run: python -m pip install -r requirements.txt
-      - run: sphinx-build -b html . html
+      - run: sphinx-build -b html ./src html
       - uses: actions/upload-artifact@v7
         id: artifact-upload-step
         with:
