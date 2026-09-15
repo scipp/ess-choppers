@@ -1,0 +1,43 @@
+<svg
+    version="1.1"
+    width="400"
+    height="400"
+    viewBox="0 0 400 400"
+    xmlns="http://www.w3.org/2000/svg">
+<path d="M241.735 57.485 L220.868 128.743 A74.250 74.250 0 0 0 179.132 128.743 L158.265 57.485 A148.500 148.500 0 0 0 80.258 112.170 L140.129 156.085 A74.250 74.250 0 0 0 125.864 195.894 L51.727 191.789 A148.500 148.500 0 0 0 72.529 276.179 L136.264 238.090 A74.250 74.250 0 0 0 167.894 266.950 L135.787 333.899 A148.500 148.500 0 0 0 213.382 347.896 L206.691 273.948 A74.250 74.250 0 0 0 246.480 257.902 L292.960 315.805 A148.500 148.500 0 0 0 336.470 258.551 L268.235 229.276 A74.250 74.250 0 0 0 272.947 186.150 L345.893 172.299 A148.500 148.500 0 0 0 318.572 110.596 L259.286 155.298 A74.250 74.250 0 0 0 225.006 130.088 L250.013 60.175 A148.500 148.500 0 0 0 241.735 57.485" fill="#e0e0e0" stroke="#a0a0a0" stroke-width="2"/>
+<path d="M200 200 L220.868 128.743" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="241.73547235603684" y="57.485438122209814" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin0</text>
+<path d="M200 200 L179.132 128.743" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="158.26452764396316" y="57.485438122209814" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end0</text>
+<path d="M200 200 L140.129 156.085" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="80.25815044334074" y="112.16982600068252" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin1</text>
+<path d="M200 200 L125.864 195.894" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="51.72718347968876" y="191.78891717651553" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end1</text>
+<path d="M200 200 L136.264 238.090" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="72.52853981937166" y="276.1792415256183" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin2</text>
+<path d="M200 200 L167.894 266.950" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="135.78712037962558" y="333.8990518669169" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end2</text>
+<path d="M200 200 L206.691 273.948" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="213.38176003295143" y="347.89583665005756" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin3</text>
+<path d="M200 200 L246.480 257.902" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="292.9599439600132" y="315.8045716668871" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end3</text>
+<path d="M200 200 L268.235 229.276" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="336.46984063418313" y="258.55111098246255" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin4</text>
+<path d="M200 200 L272.947 186.150" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="345.8934972995396" y="172.29914359249454" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end4</text>
+<path d="M200 200 L259.286 155.298" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="318.5716317472784" y="110.59631917651376" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin5</text>
+<path d="M200 200 L225.006 130.088" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="250.01276899204393" y="60.175206283905254" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end5</text>
+<path d="M200 200 L200.0 51.5" stroke="#0065ac" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="40.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#0065ac">TDC</text>
+<g id="rotation-arrow" transform="matrix(-1.0,0,0,1.0,400,20)">
+<path fill="#606060"
+ d="m 190.46289,4.140625 c -19.2285,0.9736749 -38.20846,4.7790001 -56.32617,11.292969 l 0.89453,2.490234 C 152.90409,11.497902 171.62709,7.7437179 190.5957,6.7832031 Z"/>
+<path fill="#606060" stroke-linecap="round"
+ d="m 138.29883,5.5019531 a 1.322835,1.322835 0 0 0 -0.75,0.6816406 l -5.34766,11.3515623 11.35156,5.347656 A 1.322835,1.322835 0 0 0 145.3125,22.25 1.322835,1.322835 0 0 0 144.67969,20.488281 l -8.95703,-4.21875 4.21875,-8.9589841 a 1.322835,1.322835 0 0 0 -0.63282,-1.7597657 1.322835,1.322835 0 0 0 -1.00976,-0.048828 z"/>
+</g>
+<path d="M200 200 L200.0 51.5" stroke="#c83737" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="51.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#c83737">beam position</text>
+<circle cx="200.0" cy="200.0" r="5"/>
+</svg>

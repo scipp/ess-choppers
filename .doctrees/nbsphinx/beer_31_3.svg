@@ -1,0 +1,83 @@
+<svg
+    version="1.1"
+    width="400"
+    height="400"
+    viewBox="0 0 400 400"
+    xmlns="http://www.w3.org/2000/svg">
+<path d="M200.000 51.500 L200.000 125.750 A74.250 74.250 0 0 0 193.529 126.033 L187.057 52.065 A148.500 148.500 0 0 0 143.172 62.804 L171.586 131.402 A74.250 74.250 0 0 0 165.715 134.139 L131.430 68.279 A148.500 148.500 0 0 0 94.995 94.995 L147.497 147.497 A74.250 74.250 0 0 0 143.121 152.273 L86.242 104.546 A148.500 148.500 0 0 0 62.804 143.172 L131.402 171.586 A74.250 74.250 0 0 0 129.187 177.673 L58.373 155.345 A148.500 148.500 0 0 0 51.500 200.000 L125.750 200.000 A74.250 74.250 0 0 0 126.033 206.471 L52.065 212.943 A148.500 148.500 0 0 0 62.804 256.828 L131.402 228.414 A74.250 74.250 0 0 0 134.139 234.285 L68.279 268.570 A148.500 148.500 0 0 0 94.995 305.005 L147.497 252.503 A74.250 74.250 0 0 0 152.273 256.879 L104.546 313.758 A148.500 148.500 0 0 0 143.172 337.196 L171.586 268.598 A74.250 74.250 0 0 0 177.673 270.813 L155.345 341.627 A148.500 148.500 0 0 0 200.000 348.500 L200.000 274.250 A74.250 74.250 0 0 0 206.471 273.967 L212.943 347.935 A148.500 148.500 0 0 0 256.828 337.196 L228.414 268.598 A74.250 74.250 0 0 0 234.285 265.861 L268.570 331.721 A148.500 148.500 0 0 0 305.005 305.005 L252.503 252.503 A74.250 74.250 0 0 0 256.879 247.727 L313.758 295.454 A148.500 148.500 0 0 0 337.196 256.828 L268.598 228.414 A74.250 74.250 0 0 0 270.813 222.327 L341.627 244.655 A148.500 148.500 0 0 0 348.500 200.000 L274.250 200.000 A74.250 74.250 0 0 0 273.967 193.529 L347.935 187.057 A148.500 148.500 0 0 0 337.196 143.172 L268.598 171.586 A74.250 74.250 0 0 0 265.861 165.715 L331.721 131.430 A148.500 148.500 0 0 0 305.005 94.995 L252.503 147.497 A74.250 74.250 0 0 0 247.727 143.121 L295.454 86.242 A148.500 148.500 0 0 0 256.828 62.804 L228.414 131.402 A74.250 74.250 0 0 0 222.327 129.187 L244.655 58.373 A148.500 148.500 0 0 0 200.000 51.500" fill="#e0e0e0" stroke="#a0a0a0" stroke-width="2"/>
+<path d="M200 200 L200.000 125.750" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="51.5" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin0</text>
+<path d="M200 200 L193.529 126.033" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="187.05737220197275" y="52.0650873333758" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end0</text>
+<path d="M200 200 L171.586 131.402" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="143.17151029378417" y="62.803889422073894" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin1</text>
+<path d="M200 200 L165.715 134.139" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="131.43033093459746" y="68.2788912730341" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end1</text>
+<path d="M200 200 L147.497 147.497" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="94.9946429937977" y="94.9946429937977" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin2</text>
+<path d="M200 200 L143.121 152.273" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="86.24240019683175" y="104.5460399615489" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end2</text>
+<path d="M200 200 L131.402 171.586" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="62.80388942207392" y="143.17151029378414" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin3</text>
+<path d="M200 200 L129.187 177.673" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="58.3730328138883" y="155.34518877361546" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end3</text>
+<path d="M200 200 L125.750 200.000" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="51.5" y="200.0" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin4</text>
+<path d="M200 200 L126.033 206.471" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="52.06508733337577" y="212.94262779802725" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end4</text>
+<path d="M200 200 L131.402 228.414" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="62.80388942207392" y="256.8284897062158" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin5</text>
+<path d="M200 200 L134.139 234.285" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="68.27889127303405" y="268.56966906540254" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end5</text>
+<path d="M200 200 L147.497 252.503" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="94.99464299379768" y="305.0053570062023" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin6</text>
+<path d="M200 200 L152.273 256.879" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="104.54603996154889" y="313.7575998031682" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end6</text>
+<path d="M200 200 L171.586 268.598" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="143.17151029378414" y="337.1961105779261" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin7</text>
+<path d="M200 200 L177.673 270.813" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="155.3451887736154" y="341.62696718611164" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end7</text>
+<path d="M200 200 L200.000 274.250" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="199.99999999999997" y="348.5" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin8</text>
+<path d="M200 200 L206.471 273.967" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="212.94262779802722" y="347.9349126666242" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end8</text>
+<path d="M200 200 L228.414 268.598" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="256.8284897062158" y="337.1961105779261" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin9</text>
+<path d="M200 200 L234.285 265.861" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="268.56966906540254" y="331.72110872696595" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end9</text>
+<path d="M200 200 L252.503 252.503" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="305.0053570062023" y="305.0053570062023" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin10</text>
+<path d="M200 200 L256.879 247.727" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="313.7575998031682" y="295.4539600384511" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end10</text>
+<path d="M200 200 L268.598 228.414" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="337.1961105779261" y="256.8284897062158" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin11</text>
+<path d="M200 200 L270.813 222.327" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="341.6269671861117" y="244.65481122638454" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end11</text>
+<path d="M200 200 L274.250 200.000" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="348.5" y="200.00000000000003" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin12</text>
+<path d="M200 200 L273.967 193.529" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="347.9349126666242" y="187.0573722019728" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end12</text>
+<path d="M200 200 L268.598 171.586" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="337.1961105779261" y="143.17151029378414" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin13</text>
+<path d="M200 200 L265.861 165.715" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="331.7211087269659" y="131.43033093459746" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end13</text>
+<path d="M200 200 L252.503 147.497" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="305.0053570062023" y="94.9946429937977" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin14</text>
+<path d="M200 200 L247.727 143.121" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="295.4539600384511" y="86.2424001968318" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end14</text>
+<path d="M200 200 L228.414 131.402" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="256.8284897062158" y="62.803889422073894" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin15</text>
+<path d="M200 200 L222.327 129.187" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="244.65481122638454" y="58.3730328138883" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end15</text>
+<path d="M200 200 L200.0 51.5" stroke="#0065ac" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="40.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#0065ac">TDC</text>
+<g id="rotation-arrow" transform="matrix(-1.0,0,0,1.0,400,20)">
+<path fill="#606060"
+ d="m 190.46289,4.140625 c -19.2285,0.9736749 -38.20846,4.7790001 -56.32617,11.292969 l 0.89453,2.490234 C 152.90409,11.497902 171.62709,7.7437179 190.5957,6.7832031 Z"/>
+<path fill="#606060" stroke-linecap="round"
+ d="m 138.29883,5.5019531 a 1.322835,1.322835 0 0 0 -0.75,0.6816406 l -5.34766,11.3515623 11.35156,5.347656 A 1.322835,1.322835 0 0 0 145.3125,22.25 1.322835,1.322835 0 0 0 144.67969,20.488281 l -8.95703,-4.21875 4.21875,-8.9589841 a 1.322835,1.322835 0 0 0 -0.63282,-1.7597657 1.322835,1.322835 0 0 0 -1.00976,-0.048828 z"/>
+</g>
+<path d="M200 200 L200.0 51.5" stroke="#c83737" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="51.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#c83737">beam position</text>
+<circle cx="200.0" cy="200.0" r="5"/>
+</svg>

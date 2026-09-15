@@ -1,0 +1,23 @@
+<svg
+    version="1.1"
+    width="400"
+    height="400"
+    viewBox="0 0 400 400"
+    xmlns="http://www.w3.org/2000/svg">
+<path d="M284.039 77.568 L242.020 138.784 A74.250 74.250 0 0 0 157.980 138.784 L115.961 77.568 A148.500 148.500 0 1 0 284.039 77.568" fill="#e0e0e0" stroke="#a0a0a0" stroke-width="2"/>
+<path d="M200 200 L242.020 138.784" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="284.03932905354105" y="77.56780990184546" text-anchor="start" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">begin0</text>
+<path d="M200 200 L157.980 138.784" stroke="#707070" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="115.96067094645896" y="77.56780990184546" text-anchor="end" font-family="sans-serif" dominant-baseline="ideographic" fill="#707070">end0</text>
+<path d="M200 200 L200.0 51.5" stroke="#0065ac" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="40.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#0065ac">TDC</text>
+<g id="rotation-arrow" transform="matrix(-1.0,0,0,1.0,400,20)">
+<path fill="#606060"
+ d="m 190.46289,4.140625 c -19.2285,0.9736749 -38.20846,4.7790001 -56.32617,11.292969 l 0.89453,2.490234 C 152.90409,11.497902 171.62709,7.7437179 190.5957,6.7832031 Z"/>
+<path fill="#606060" stroke-linecap="round"
+ d="m 138.29883,5.5019531 a 1.322835,1.322835 0 0 0 -0.75,0.6816406 l -5.34766,11.3515623 11.35156,5.347656 A 1.322835,1.322835 0 0 0 145.3125,22.25 1.322835,1.322835 0 0 0 144.67969,20.488281 l -8.95703,-4.21875 4.21875,-8.9589841 a 1.322835,1.322835 0 0 0 -0.63282,-1.7597657 1.322835,1.322835 0 0 0 -1.00976,-0.048828 z"/>
+</g>
+<path d="M200 200 L200.0 51.5" stroke="#c83737" stroke-width="2" stroke-dasharray="5,5"/>
+<text x="200.0" y="51.5" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" fill="#c83737">beam position</text>
+<circle cx="200.0" cy="200.0" r="5"/>
+</svg>
