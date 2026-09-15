@@ -3,32 +3,37 @@
 ::::{grid} 4
 
 :::{grid-item-card} BEER
-:link: beer-choppers.ipynb
+:link: beer.ipynb
 
 :::
 
 :::{grid-item-card} BIFROST
-:link: bifrost-choppers.ipynb
+:link: bifrost.ipynb
 
 :::
 
 :::{grid-item-card} DREAM
-:link: dream-choppers.ipynb
+:link: dream.ipynb
+
+:::
+
+:::{grid-item-card} ESTIA
+:link: estia.ipynb
 
 :::
 
 :::{grid-item-card} MAGIC
-:link: magic-choppers.ipynb
+:link: magic.ipynb
 
 :::
 
 :::{grid-item-card} ODIN
-:link: odin-choppers.ipynb
+:link: odin.ipynb
 
 :::
 
 :::{grid-item-card} NMX
-:link: nmx-choppers.ipynb
+:link: nmx.ipynb
 
 :::
 
@@ -40,10 +45,11 @@
 hidden:
 ---
 
-beer-choppers
-bifrost-choppers
-dream-choppers
-magic-choppers
-nmx-choppers
-odin-choppers
+beer
+bifrost
+dream
+estia
+magic
+nmx
+odin
 ```
